@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Contador Público Autorizado Gustavo Paniagua Vasquez]]></title>
+        <description><![CDATA[Contador Público Autorizado Gustavo Paniagua Vasquez]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Apr 2016 01:05:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Todo sobre contabilidad]]></title>
+            <description><![CDATA[<article><h1>Todo sobre contabilidad</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eab21965-1b19-4317-8664-053a15c2a547.jpg"></article>]]></description>
+            <link>undefinedtodo-sobre-contabilidad/index.html</link>
+            <guid isPermaLink="false">041575cf-9fda-4e8b-8639-9832eec0958c</guid>
+            <pubDate>Thu, 07 Apr 2016 01:04:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
